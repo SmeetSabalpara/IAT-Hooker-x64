@@ -12,3 +12,7 @@ Steps for injecting your own functionality:
 
 
 <img width="1440" alt="Screenshot 2023-09-01 at 8 24 06 AM" src="https://github.com/SmeetSabalpara/IAT-Hooker-x64/assets/59355395/1c06ca76-e24d-4c21-84d5-c12704570f40">
+
+## Demonstration 
+
+https://www.linkedin.com/posts/smeetsabalpara_mitreattack-privilegeescalation-hooking-activity-7103064476840603648-NJpq?utm_source=share&utm_medium=member_desktop
