@@ -4,6 +4,6 @@ IAT Hooker is a tool that I recently developed to hook any function within the I
 
 # Using custom DLL
 
-Replace the MessageBoxW function with your own code. Keep rest of the code as it is.
+In the "task.dll" file replace the MessageBoxW function with your own code. Keep rest of the code as it is.
 
 <img width="1440" alt="Screenshot 2023-09-01 at 8 24 06 AM" src="https://github.com/SmeetSabalpara/IAT-Hooker-x64/assets/59355395/1c06ca76-e24d-4c21-84d5-c12704570f40">
