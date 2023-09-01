@@ -15,4 +15,4 @@ Steps for injecting your own functionality:
 
 ## Demonstration 
 
-https://www.linkedin.com/posts/smeetsabalpara_mitreattack-privilegeescalation-hooking-activity-7103064476840603648-NJpq?utm_source=share&utm_medium=member_desktop
+[LinkedIn](https://www.linkedin.com/posts/smeetsabalpara_mitreattack-privilegeescalation-hooking-activity-7103064476840603648-NJpq?utm_source=share&utm_medium=member_desktop)
